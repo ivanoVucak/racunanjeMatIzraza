@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\bin\Debug\deklinirianjeDefiniranje.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\bin\Debug\deklinirianjeDefiniranje.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\bin\Debug\deklinirianjeDefiniranje.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\obj\Debug\deklinirianjeDefiniranje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\obj\Debug\deklinirianjeDefiniranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\obj\Debug\deklinirianjeDefiniranje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\obj\Debug\deklinirianjeDefiniranje.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\deklinirianjeDefiniranje\obj\Debug\deklinirianjeDefiniranje.pdb
